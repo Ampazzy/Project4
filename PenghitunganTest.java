@@ -34,6 +34,7 @@ public class PenghitunganTest {
         System.out.println(bayar);
         
         System.out.println("Pengetesan Selesai");
+        p.dispose();
     }
 
 }
